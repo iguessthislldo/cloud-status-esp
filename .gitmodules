@@ -1,0 +1,3 @@
+[submodule "src/esp8266-ping"]
+	path = src/esp8266-ping
+	url = https://github.com/bluemurder/esp8266-ping
